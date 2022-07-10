@@ -1,0 +1,25 @@
+{
+  "short_name": "Four Books",
+  "name": "Create Four Books With React js",
+  "icons": [
+    {
+      "src": "stray_wolf_w3.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "stray_wolf_w3.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "stray_wolf_w3.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
