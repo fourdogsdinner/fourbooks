@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[6],{384:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return a}));n(0);var r=n(65),c=n(13),s=n(14),i=n(22);function a(){return Object(i.jsx)(c.a,{style:u.flexCenter,children:Object(i.jsx)(r.a,{children:"Settings"})})}var u=s.a.create({flexCenter:{alignItems:"center",justifyContent:"center",flex:1}})}}]);
+//# sourceMappingURL=6.036e3f5d.chunk.js.map
